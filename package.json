@@ -1,6 +1,6 @@
 {
   "name": "bluecookies",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Quick and simple cookie consent dialog for websites.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ealbinu/BlueCookies.git"
   },
-  "author": "Albin Rdz",
+  "author": {"name":"Albin Rdz", "url":"https://dragonbarbudo.com"},
+  "homepage":"https://ealbinu.github.io/BlueCookies",
   "license": "ISC"
 }
