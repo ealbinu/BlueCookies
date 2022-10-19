@@ -31,7 +31,7 @@ const BlueCookies = (information, accepted, button, style) => {
   const acceptBtn = document.createElement('button');
   acceptBtn.setAttribute(
     'style',
-    'border:none; padding: 4px 8px; border-radius: 2px; margin: 6px 10px; cursor:pointer; box-shadow: 0 4px 3px rgba(0,0,0,0.1);'
+    'background:#f5f5f5; color:#303030; border:none; padding: 4px 8px; border-radius: 2px; margin: 6px 10px; cursor:pointer; box-shadow: 0 4px 3px rgba(0,0,0,0.1);'
   )
   
   elAccepted.textContent = accepted

@@ -1,6 +1,6 @@
 {
   "name": "bluecookies",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Quick and simple cookie consent dialog for websites.",
   "main": "index.js",
   "scripts": {

@@ -10,7 +10,7 @@ Quick and simple cookie consent dialog for websites
 Download index.js / index.min.js or use un **unpkg**.
 
 ```html
- <script src="https://unpkg.com/bluecookies/"></script>
+ <script src="https://unpkg.com/bluecookies/index.js"></script>
 ```
 
 ```html
@@ -31,7 +31,7 @@ BlueCookies(mainText, acceptedText, buttonText, customStyle)
 ### Example
 
 ```html
-  <script src="https://unpkg.com/bluecookies/"></script>
+  <script src="https://unpkg.com/bluecookies/index.min.js"></script>
   <script>
     BlueCookies("Do you consent to the use of cookies?", "✔ Cookies", "Accept", "background-color: #8bb8e8; color:#fff;")
   </script>
